@@ -5,7 +5,7 @@
 参考記事: 
  [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)
 
-## ✅再レンダリング防ぐ為の注意点
+## ✅ 再レンダリング防ぐ為の注意点
 
 - 子コンポーネント
 - 子コンポーネントへのprops: 関数・オブジェクト・配列
